@@ -102,11 +102,11 @@ android_app_import {
 }
 
 android_app_import {
-        name: "HotwordEnrollmentOKGoogleHEXAGON",
+	name: "HotwordEnrollmentOKGoogleHEXAGON",
 	owner: "xiaomi",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk",
 	presigned: true,
-        dex_preopt: {
+	dex_preopt: {
 		enabled: false,
 	},
 	privileged: true,
@@ -114,11 +114,11 @@ android_app_import {
 }
 
 android_app_import {
-        name: "HotwordEnrollmentXGoogleHEXAGON",
+	name: "HotwordEnrollmentXGoogleHEXAGON",
 	owner: "xiaomi",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk",
 	presigned: true,
-        dex_preopt: {
+	dex_preopt: {
 		enabled: false,
 	},
 	privileged: true,
